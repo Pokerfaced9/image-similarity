@@ -1,0 +1,9 @@
+imagehash
+watchdog
+openpyxl
+numpy
+opencv-python-headless
+scikit-learn 
+Pillow
+streamlit
+pandas
